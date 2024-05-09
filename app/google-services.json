@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "621897938497",
+    "project_id": "pestotodotask",
+    "storage_bucket": "pestotodotask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621897938497:android:6202b8b7ec7788eb4b38c0",
+        "android_client_info": {
+          "package_name": "com.pesto.pestotodotask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3FtFmA9Z3_pimMJsTnthXK3btCpX1M5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

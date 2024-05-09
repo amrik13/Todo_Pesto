@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">PestoTodoTask</string>
+    <string name="add_task">Add Task</string>
+    <string name="all_tasks">All Tasks</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_task_title">Add Task</string>
+    <string name="search">Search</string>
+    <string name="title">* Title*</string>
+    <string name="description">* Description</string>
+    <string name="status">* Select Status:</string>
+    <string name="add">Add</string>
+    <string name="add_task_note">All field with (*) are must required</string>
+    <string name="add_task_toast_msg">Can\'t proceed with empty field</string>
+    <string name="task_added_successfully">Added Successfully!!!</string>
+    <string name="update_button">Update</string>
+    <string name="updated_successfully">Updated Successfully!!!</string>
+    <string name="filter_with_status">Filter with status</string>
+    <string name="delete">Delete</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="this_will_permanently_delete_the_task">This will permanently delete the task.</string>
+    <string name="cancel">Cancel</string>
+    <string name="register">Register</string>
+    <string name="email">* Phone</string>
+    <string name="password">* Password</string>
+    <string name="name">* Name</string>
+    <string name="registered_successfully">Registered Successfully!!!</string>
+    <string name="login_first">Login First!!!</string>
+    <string name="login">Login</string>
+    <string name="first_time_user">First time user???</string>
+    <string name="register_here">register here</string>
+    <string name="logged_in_successfully">Logged in successfully!!!</string>
+    <string name="incorrect_email_or_password">Incorrect credentials!!!</string>
+    <string name="logout">Logout</string>
+    <string name="logged_out_successfully">Logged out successfully!!!</string>
+
+    <string-array name="status_list" >
+        <item>Todo</item>
+        <item>In Progress</item>
+        <item>In Review</item>
+        <item>Done</item>
+    </string-array>
+
+    <string-array name="status_filter_list" >
+        <item>All</item>
+        <item>Todo</item>
+        <item>In Progress</item>
+        <item>In Review</item>
+        <item>Done</item>
+    </string-array>
+
+</resources>
